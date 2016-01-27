@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/nameCandidate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="6dip"
+        android:paddingLeft="6dip"
+        android:textColor="@color/white"
+        android:textSize="17dip"
+        android:textStyle="bold" />
+
+    <!-- Name Label -->
+    <TextView
+        android:id="@+id/regCandidate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="6dip"
+        android:paddingLeft="6dip"
+        android:textColor="@color/white"
+        android:textSize="17dip"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/seatNameCandidate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="6dip"
+        android:paddingLeft="6dip"
+        android:textColor="@color/white"
+        android:textSize="17dip"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:background="@color/btn_login_bg"
+        android:text="VOTE"
+        android:textColor="@color/btn_login"
+        android:textSize="15dp"
+        />
+
+
+</LinearLayout><!-- From: file:/C:/Users/Nazran/Dropbox/AndroidLoginAndRegistration%20v2/AndroidLoginAndRegistration/app/src/main/res/layout/list_item.xml -->

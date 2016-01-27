@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_login"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:weightSum="3">
+
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:weightSum="3">
+
+        <Spinner
+            android:id="@+id/seats_spinner_vote"
+            android:layout_weight="1"
+            android:background="@android:drawable/btn_dropdown"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            />
+
+        <Button
+            android:id="@+id/btnShowCandidate"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/btn_login_bg"
+            android:textSize="15dp"
+            android:text="SHOW CANDIDATES"
+            android:textColor="@color/btn_login" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2">
+
+        <ListView
+            android:id="@android:id/list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Nazran/Dropbox/AndroidLoginAndRegistration%20v2/AndroidLoginAndRegistration/app/src/main/res/layout/activity_vote.xml -->

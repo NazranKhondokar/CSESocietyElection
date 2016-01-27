@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nazran\Dropbox\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Nazran\Dropbox\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-70b53eab4c31b1a11e426441dd304ed904345c49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nazran\Dropbox\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Nazran\Dropbox\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-6baec6c434396671f1abe75117f294da7093f045.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDKFolder\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Nazran\Dropbox\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1e4a6cb83cd9126cb6bc561e00cf03c375b49d63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nazran\Dropbox\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Nazran\Dropbox\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-49acbdf33b88a66f762ca232f8624dfb1fc54bec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nazran\Dropbox\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Nazran\Dropbox\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-a6e75c5638096b44cdc5e062f5e5fe9c0223e874.jar" />
+    </item>
+
+</items>

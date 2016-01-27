@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:weightSum="3"
+
+    tools:context="com.example.nazran.csesocietyelection.HomeActivity">
+
+    <ImageView
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:src="@drawable/cse" />
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:weightSum="3"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="20dp"
+        >
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:text="Society Election"
+            android:textSize="34dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            />
+
+        <Button
+            android:id="@+id/buttonStudentLogIn"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="10dip"
+            android:background="@color/bg_login"
+            android:textColor="@color/white"
+            android:text="Log In"
+            android:textSize="15dp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+<!-- From: file:/C:/Users/Nazran/Dropbox/AndroidLoginAndRegistration%20v2/AndroidLoginAndRegistration/app/src/main/res/layout/activity_home.xml -->

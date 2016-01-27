@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CSE Society Election</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="btn_canditate_reg">Candidate Register</string>
+    <string name="btn_add_canditate">ADD CANDIDATES</string>
+    <string name="btn_add_student">ADD STUDENTS</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="hint_seatName">Seat Name</string>
+    <string name="hint_regID">Registration ID</string>
+
+    <string-array name="seats_array">
+        <item>Vice President</item>
+        <item>General Secretary</item>
+        <item>Associate Vice President</item>
+        <item>Organization Secretary</item>
+        <item>Associate Organization Secretary</item>
+        <item>Caltural Secretary</item>
+        <item>Associate Caltural Secretary</item>
+        <item>Sports Secretary</item>
+        <item>Associate Sports Secretary</item>
+        <item>Class Representative First Year</item>
+        <item>Class Representative Second Year</item>
+        <item>Class Representative Third Year</item>
+        <item>Class Representative Final Year</item>
+    </string-array>
+
+</resources>
